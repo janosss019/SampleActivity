@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleActivity</string>
+    <string name="name_textfield">Enter name:</string>
+    <string name="nameeditlabel">What is your name?</string>
+    <string name="name_label" />
+    <string name="submit_btn">Submit</string>
+    <string name="name_edit_label">What is your name?</string>
+    <string name="name_edit_val" />
+</resources>
